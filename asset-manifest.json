@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/searchsquid/static/css/main.78cfd2a2.chunk.css",
+    "main.js": "/searchsquid/static/js/main.7b07f237.chunk.js",
+    "main.js.map": "/searchsquid/static/js/main.7b07f237.chunk.js.map",
+    "runtime-main.js": "/searchsquid/static/js/runtime-main.c03d3575.js",
+    "runtime-main.js.map": "/searchsquid/static/js/runtime-main.c03d3575.js.map",
+    "static/js/2.d85fcfd8.chunk.js": "/searchsquid/static/js/2.d85fcfd8.chunk.js",
+    "static/js/2.d85fcfd8.chunk.js.map": "/searchsquid/static/js/2.d85fcfd8.chunk.js.map",
+    "index.html": "/searchsquid/index.html",
+    "precache-manifest.bfed1b1ec8e8c08f7cdbebff6bad3b5c.js": "/searchsquid/precache-manifest.bfed1b1ec8e8c08f7cdbebff6bad3b5c.js",
+    "service-worker.js": "/searchsquid/service-worker.js",
+    "static/css/main.78cfd2a2.chunk.css.map": "/searchsquid/static/css/main.78cfd2a2.chunk.css.map",
+    "static/js/2.d85fcfd8.chunk.js.LICENSE.txt": "/searchsquid/static/js/2.d85fcfd8.chunk.js.LICENSE.txt",
+    "static/js/main.7b07f237.chunk.js.LICENSE.txt": "/searchsquid/static/js/main.7b07f237.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c03d3575.js",
+    "static/js/2.d85fcfd8.chunk.js",
+    "static/css/main.78cfd2a2.chunk.css",
+    "static/js/main.7b07f237.chunk.js"
+  ]
+}
